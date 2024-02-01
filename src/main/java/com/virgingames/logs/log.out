@@ -1,0 +1,14 @@
+2024-02-01 21:02:552 INFO  ManageBrowser :31 - Chrome Browser Launch .....
+2024-02-01 21:02:851 INFO  HomePage :29 - Click on accept all cookies: [[ChromeDriver: chrome on windows (7a2353eb8e8dc60e708e5e27f454da19)] -> css selector: label[for='privacy_pref_optin']]
+2024-02-01 21:02:917 INFO  HomePage :33 - Verify Welcome message on homepage: [[ChromeDriver: chrome on windows (7a2353eb8e8dc60e708e5e27f454da19)] -> xpath: //h1[normalize-space()='Welcome to Virgin Games']]
+2024-02-01 21:02:219 INFO  ManageBrowser :31 - Chrome Browser Launch .....
+2024-02-01 21:02:928 INFO  HomePage :29 - Click on accept all cookies: [[ChromeDriver: chrome on windows (f1bff888abfc77af2c14992721904f64)] -> css selector: label[for='privacy_pref_optin']]
+2024-02-01 21:02:589 INFO  HomePage :39 - Click on Casino Tab: [[ChromeDriver: chrome on windows (f1bff888abfc77af2c14992721904f64)] -> link text: Casino]
+2024-02-01 21:02:26 INFO  HomePage :43 - verify popular online casino games message: [[ChromeDriver: chrome on windows (f1bff888abfc77af2c14992721904f64)] -> css selector: body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > section:nth-child(6) > h2:nth-child(1)]
+2024-02-01 22:02:197 INFO  ManageBrowser :31 - Chrome Browser Launch .....
+2024-02-01 22:02:23 INFO  HomePage :29 - Click on accept all cookies: [[ChromeDriver: chrome on windows (b000510f9057f0b1454d13569aae9345)] -> css selector: label[for='privacy_pref_optin']]
+2024-02-01 22:02:77 INFO  HomePage :33 - Verify Welcome message on homepage: [[ChromeDriver: chrome on windows (b000510f9057f0b1454d13569aae9345)] -> xpath: //h1[normalize-space()='Welcome to Virgin Games']]
+2024-02-01 22:02:225 INFO  ManageBrowser :31 - Chrome Browser Launch .....
+2024-02-01 22:02:864 INFO  HomePage :29 - Click on accept all cookies: [[ChromeDriver: chrome on windows (ec388b1e4df146c43a466154c2a418cf)] -> css selector: label[for='privacy_pref_optin']]
+2024-02-01 22:02:721 INFO  HomePage :39 - Click on Casino Tab: [[ChromeDriver: chrome on windows (ec388b1e4df146c43a466154c2a418cf)] -> link text: Casino]
+2024-02-01 22:02:41 INFO  HomePage :43 - verify popular online casino games message: [[ChromeDriver: chrome on windows (ec388b1e4df146c43a466154c2a418cf)] -> css selector: body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > section:nth-child(6) > h2:nth-child(1)]
